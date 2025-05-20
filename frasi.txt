@@ -1,0 +1,1035 @@
+tutto il materiale di manutenzione(attrezzi, viti, dadi, bulloni) dimenticato a bordo del velivolo
+
+ispezionare per perdita fluidi 
+
+bisogna fare riferimento alla specifica scheda di sicurezza
+
+basse resistenze nell'ordine dei milliohm
+
+sistema ILS (LOC/GS), marker beacon, apparati di comunicazione, autopilota.
+
+procedure in caso di perdite e/o trafilamento della sostanza
+
+sette
+
+Espellere in emergenza ed in sicura i carichi selezionati precedentemente
+
+ISO, CEN, UNI
+
+controllo diametro interno, pulizia per soffiaggio e tappi se non utilizzata
+
+Acciaio ad alto tenore di carbonio o legato con basse sollecitazioni di lavoro.
+
+Lega di magnesio
+
+Un comparatore a quadrante (DTI) e blocchetti a 'V'.
+
+2D
+
+dovrebbe essere impostato su ON
+
+Consentire l'espansione e la contrazione dovute al calore e assorbire le vibrazioni. 
+
+Il ciclo di verniciatura: Primer,fondo,vernice a finire
+La risposta uno e la risposta due sono entrambe corrette.
+rivetto a testa piana
+
+Ispezione visiva, prova di connessione (bonding test), prova di continuità (Continuity test), prova di isolamento, test funzionale
+
+troppo stretto
+
+tutte le risposte sono esatte
+
+ingrossamenti locali con passaggio di luce attraverso i fili
+
+differenza prescritta tra limite superiore e limite inferiore
+
+periodici piccoli spostamenti 
+
+azoto che fuoriesce nella parte liquida del sistema idraulico
+
+creare una data pressione all’interno del circuito.
+
+Sono elencate nel manuale di manutenzione dell'aeromobile ed opportunamente annotate registrate
+
+isolare un comando elettrico o un impianto di controllo elettrico
+
+Quando si installa o disinstalla un componente in via definitiva tale che varia la massa base dell'aeromobile.
+
+Sono tecniche di indagine non invasive
+rilasciamo la pressione contenuta nel sistema prima di operare
+
+uguale o preferibilmente sensibilmente superiore alla tensione di lavoro del circuito in prova
+
+sette
+
+bicarbonato di sodio (bicarbonato di sodio) e acqua
+
+indebolimento della giunzione
+
+Serve a creare un alloggiamento per la testa dei rivetti in modo da mantenerla a filo con la struttura
+
+corda di un'ala rettangolare equivalente avente la stessa luce e area di un'ala a freccia
+
+Tirando all'indietro
+
+dettaglio, montaggio e installazione
+
+i materiali solidi.
+
+contrazioni termiche
+
+calendariali, orari e cicli
+
+Il numero minimo di dimensioni necessarie per consentire la fabbricazione del componente.
+
+nota, avviso di attenzione e avviso di pericolo
+
+protezione per gli occhi
+
+escrescenze di baffi e depositi sfocati
+
+Assicurarsi che il cavo sia completamente inserito nel pin di contatto prima crimpatura
+
+tra albero e supporto
+
+bronzo e leghe anti-frizione
+
+101-199
+
+Dove sarebbe scomodo (a causa dello spazio limitato) disegnare tratti troppo lunghi della stessa sezione.
+
+è la differenza tra il limite massimo e minimo consentito 
+
+un Deadwheight Tester
+
+Un test di continuità.
+
+fenomeno di usura dovuto al micro movimento di due parti
+
+Il processo di saldatura ad arco in atmosfera inerte utilizza un gas inerte per proteggere la zona di saldatura dall'atmosfera.
+
+Registro Aeronautico Italiano, attività normativa, di certificazione e di controllo riguardante l'idoneità dell'impiego
+
+Non rimuovere o disabilitare mai la protezione. Il leggero inconveniente che generano è più che compensato dalla maggiore sicurezza che forniscono.
+
+colorante penetrante e l'applicazione dello sviluppatore
+
+Nella PARTE IV del libretto di volo
+
+cavi coassiali
+
+Materiale radioattivo
+
+surriscaldamento e rottura
+
+L'apparecchiatura di prova dovrebbe essere controllata per vedere se contiene il corretto tipo di fluido idraulico; in caso contrario cambiare banco. 
+
+calibro (AWG) del filo per il quale deve essere utilizzato
+
+diretti e remoti:
+
+essere sufficientemente ventilati
+
+QNE (29,92 pollici di mercurio)
+
+tra foro e rivetto deve esistere un gioco 
+
+intaccature che inizialmente possiamo notare solo usando una lente di ingrandimento
+
+acciaio galvanizzato e acciaio inossidabile
+
+ad evitare danni al carrello di atterraggio dell'aeromobile
+
+che non posso essere messi fuori servizio
+
+livellare l'aeroplano solo longitudinalmente in quanto i valori di massa rilevati nei punti di reazione principali destro e sinistro (trasversali) saranno essere sommati
+
+Può verificarsi una differenza di potenziale tra le superfici metalliche
+
+7
+
+attraverso misurazioni di resistenza e di continuità
+
+effettuare il rifornimento combustibile per evitare la formazione di umidità nei serbatoi e limitare la formazione di vapori pericolosi per di innesco incendi
+
+mondiale
+
+trascurabili, con possibilità di volo e richiedenti riparazione
+
+se depositato all'esterno, deve essere ancorato a terra con ruote bloccate mediante doppio tacco
+
+trovare il difetto nel minor tempo possibile e correggere con il minimo costo
+
+nei materiali conduttori di elettricità
+freccia nera
+
+Con bilance del tipo bascule, a cella di carico o a piattaforma
+
+Si deve far passare la catena sul dito per 180° e controllare che non sia liscia e non presenti pieghe.
+
+inserire le protezioni alle prese d'aria
+
+Sospendere l'invecchiamento naturale per un periodo limitato. 
+
+Teflon
+
+CRS (certificato di riammissione in servizio)
+
+Bisogna preservare tutti i punti di accesso da eventi atmosferici avversi, polvere, polline ed insetti
+
+Lo specialista deve usare il manuale tecnico -3 del sistema d'arma (STRUCTURAL REPAIR)
+Lega leggera, acciaio inox o leghe cadmiate.
+
+piste di decollo e atterraggio, piste di rullaggio e manutenzione
+
+valore di classe 3(adattamento medio)
+
+Danni trascurabili, danni con possibilità di volo,danni richiedenti la riparazione.
+Non sezionata.
+
+Capitolo 20 e 70
+
+Ferro
+accoppiamento che può fornire un gioco o una interferenza
+
+Il display visualizza quattro o più cifre e mostra un valore negativo se necessario
+
+adatta all'impiego, da sottoporre a riparazione o definitivamente scartata
+
+mostra dove e come i componenti e gli assiemi vengono montati sull'aeromobile
+
+Sono da considerarsi positive se rilevate dal piano immaginario verticale verso la coda del velivolo
+
+lavorazioni su materiali delicati
+
+Analisi dei cablaggi, cavi e connettori
+
+10 secondi, guarda per vedere se il torace si sta alzando, ascolta vicino al loro viso per i suoni respiratori e senti un respiro sulla tua guancia
+
+19
+
+preferibilmente doppia rispetto alla tensione di lavoro del circuito in prova
+
+quantità di variazione in una sola direzione
+
+6 volte diametro
+
+fornisce un'indicazione più accurata di un serraggio adeguato, anche se nell'assemblaggio vengono utilizzati dadi di attrito, lubrificante per filettature o composto per giunti
+
+secondo condizione e speciale
+
+una raccolta di singoli fogli di film riempiti con minuscole immagini di documenti
+
+Prevenzione,perfetta pulizia dell'aeromobile,controllo ed ispezione
+100% più grande del diametro medio dei fili.
+
+I materiali di base siano completamente fusi insieme.
+
+eseguendo una leggera trazione dopo aver inserito il pin o utilizzando un apposito attrezzo di ritenzione a punte intercambiabili
+
+Hanno una bassa resistenza alla corrente. 
+
+per attacco chimico diretto e per reazione elettrochimica
+
+Questa alimentazione d'aria è fornita dal motore del velivolo o dall' APU, ma una unità di alimentazione a terra può essere utilizzata quando questi non sono disponibili.
+
+Utilizzate per elementi di fissaggio con inserto esagonale posto sulla testa. Generalmente presenti in set all’interno delle trousse.
+
+Una minaccia maggiore di lesioni personali rispetto a un utensile da taglio affilato.
+
+la comprensione del funzionamento complessivo del sistema
+
+una bobina di pellicola contenuta in una cassetta o cartuccia
+
+500 mm
+
+rivestite con composto per giunzioni e la riparazione assemblata e rivettata mentre il composto per giunzioni è bagnato
+
+L’Aeronavigabilità (Airworthiness), la navigabilità durante il volo e la crashworthiness
+
+di una quantità proporzionale alla corrente che scorre attraverso la sua bobina mobile
+
+regola della mano destra
+Magnetismo
+Vengono in genere utilizzati per sostenere il velivolo dopo essere stato sollevato, ma in alcuni casi possono essere usati anche come martinetti. 
+
+magazzino di transito e di controllo del materiale
+
+è una differenza in una dimensione, necessaria per dare una particolare classe di adattamento tra due parti
+
+accoppiante;
+a realizzare un foro di un rivetto nella misura corretta
+
+Del Pilota
+
+boroscopi o videoendoscopi
+Maneggiare i serbatoi con cura, evitando urti e cadute, e utilizzare cappucci durante il trasporto e lo stoccaggio.
+
+schermatura dei fili elettrici
+
+croce rossa
+
+In tensione
+
+Dall'Ufficiale Tecnico
+
+la differenza tra la dimensione del foro e il diametro del rivetto
+
+Superfici in contatto tra loro.
+
+260 °C
+
+Stendere uno straccio per tutta la lunghezza del cavo.
+
+una organizzazione approvata EASA o dalla FAA
+
+Lega di alluminio 2024.
+
+controllo diametro interno, terminali e filettature
+
+Aumenta
+
+Un disegno di assieme o di progetto.
+
+La Post Volo
+
+Danni che non riducono lo spessore del materiale, Ma ne causano solo deformazione
+non può essere ruotato dallo strumento del filo di prova
+
+AER-00-1-49
+
+Bisogna verificare preventivamente che il carburante sia privo di acqua
+
+l'estrattore sia inserito anteriormente ed il pin sia estratto posteriormente.
+
+classe 2
+
+rimuovere la parte sporgente dei rivetti al termine della lavorazione
+
+giochi, attriti, risposta dei comandi e libertà dei movimenti
+
+il materiale con cui è costruito il cuscinetto deve deteriorarsi prima del materiale con cui è costruito l'albero
+
+Non deve essere rimosso.
+
+dati caratteristici generali dell'aeromobile
+
+Una volta arrivati all'altezza richiesta si devono inserire i sistemi di blocco
+
+misurare la proporzione tra due segnali elettrici
+
+Prevenire la formazione di ossidi davanti alla saldatura.
+
+elemento meccanico in grado di assorbire notevoli quantità di energia
+
+3% di lunghezza in più rispetto alla distanza tra i raccordi.
+
+Finiture superficiali di alta qualità di acciai legati, leghe di alluminio e leghe di magnesio
+
+è un componente essenziale dell’avionica
+
+attraverso standard specificati dal produttore/progettista e standard nazionali/internazionali adeguati
+
+è un dispositivo che innesca la catena esplosiva al fine di provocare lo scoppio dell'ordigno al momento ottimale
+
+Per consentire il drenaggio dell'umidità.
+
+Lunghezza sotto carico. 
+
+a strati
+
+il metodo permette di rilevare qualunque tipo di discontinuità
+Espellere in emergenza  tutti i carichi in sicura
+
+dall'Ufficiale Tecnico
+
+preparazione, ispezione e riammissione in servizio
+
+Meccanico e chimico
+
+E' generalmente progettato per rimuovere il ghiaccio che si forma durante il volo o per prevenirne la formazione
+
+piccoli cilindri generalmente usate in abbinamento a piccole leve, prolunghe o giunti o su utensili elettrici tramite appositi adattatori.
+
+materie plastiche
+esame strutturale accurato
+
+Non influenzata dalla lunghezza. 
+
+4
+
+rigidi e orientabili
+
+variazioni di temperatura;
+esposizione all’ umidità;
+vibrazioni;
+contaminazioni da fluidi 
+
+Per testare la tenuta del perno nel rivetto. 
+
+Si deve fare riferimento agli appositi manuali di manutenzione per informazioni dettagliate.
+
+controlli di collegamento a massa di superfici, sistemi e motori
+
+Ciascuna vista mostrata è adiacente alla faccia dell'oggetto che rappresenta
+
+45°
+
+Respinto
+
+Rilevamento di difetti a correnti parassite
+
+tolleranza, transizione e interferenza
+
+Il raggio interno. 
+
+Potrebbe verificarsi la separazione dei fogli. 
+
+boroscoio o videoendoscopio:
+sinistrorso
+
+il metodo con Liquidi Penetranti fluorescenti
+dal retro del connettore
+
+APU
+
+un'alta precisione e una bassa incertezza nelle misurazioni di pressione
+
+oggetti estranei di forma e natura più svariata che possono essere causa di danni 
+
+che sia strutturata e configurata correttamente
+
+mettere in compressione il metallo che circonda il foro, impedendo così la propagazione della cricca
+
+sono più resistenti alla fatica
+
+serve ad accogliere le tre diverse dimensioni di pin da crimpare.
+
+solo all'operatore che lo ha inibito o comunque con il suo esplicito consenso
+
+a verificare che il banco prova sia efficiente e pronto per l’uso
+
+1,5 volte la pressione di esercizio. 
+
+linea continua grossa
+
+a sfere, a rulli, a rulli conici e a rullini
+
+Accoppiamento con gioco.
+
+ILS (LOC, G/S)
+
+capillarità
+imbastitore
+
+avvicinandosi alle ruote dalle estremità alari
+
+il rapporto tra resistenza del pezzo e carico massimo previsto
+
+i tenditori si trovano in posizioni diverse su percorsi di cavi adiacenti
+
+Rifornire/rabboccare tutti i sistemi ed effettuarne tutte le prove funzionali come previsto dai manuali.
+
+Entrambi i precedenti sono corretti. 
+
+Interrompere elettricamente il circuito di sparo ed eiezione dalla tensione di 28 VDC
+
+Se occorre far funzionare gli APU, la loro messa in moto deve avvenire prima dell’inizio del rifornimento
+
+I mezzi antincendio appropriati devono essere disponibili
+
+Nelle Scheda di Sicurezza dei materiali (MSDS)
+
+una tantum e periodiche
+
+La barra di traino deve essere dotata dei mezzi di sicurezza previsti (ammortizzatori di strappo, spine di sicurezza a rottura prestabilita).
+
+Leggermente ingrassato.
+
+Attrezzi che permettono il funzionamento in entrambi i sensi di utilizzo e, di norma, sono del tipo dotato di alloggiamento per inserire vari tipologie di punte.
+
+Dove il diametro del cavo non è importante. 
+
+Rifiutare il cuscinetto.
+
+presenza di polveri bianche, grigie o rosse
+
+prima di ogni utilizzo
+
+Né il penetrante fluorescente né il penetrante per contrasto di colore possono essere utilizzati per rilevare i difetti sub-superficiali
+
+Raccolta di informazioni del difetto (dal Libretto; Informazioni verbali; documentali; pubblicazioni)
+
+Il codice colore indica la dimensione dell'utensile di crimpatura da utilizzare.
+
+acciaio temprato
+
+18.000 feet con tolleranza  +/- 100 
+
+I cavi sono solitamente installati in sezioni e uniti a intervalli, con terminazioni che dipendono da vari fattori legati ai costi e ai requisiti di aeronavigabilità.
+
+non bisogna ruotarlo destra/sinistra per estrarre il pin.
+
+Una lettera maiuscola seguita da un numero.
+
+Deve essere attentamente revisionata e certificata nei periodi consigliati dal produttore
+
+La corretta installazione e manutenzione dei cavi è fondamentale per evitare potenziali guasti, segnali spuri e archi elettrici.
+
+Il saldatore e la lega per saldatura devono essere applicati contemporaneamente alla connessione. 
+
+Si collega la presa dal generatore all'aeromobile avendo cura di disinserire l'interruttore prima di effettuare il collegamento
+
+Acciaio
+
+Rame, zinco e argento.
+
+utilizzare sempre due persone, uno per controllare il flusso al carrello e uno per monitorare la pressione nel sistema aereo.
+
+è quella scienza che stabilisce i requisiti che devono essere soddisfatti in sede di progettazione, costruzione, impiego e manutenzione di un aeromobile affinchè questo sia definito sicuro entro i limiti del rischio accettabile.
+
+Ossidi mescolati con il materiale di riempimento.
+
+Pianificata
+
+Azzurramento del cuscinetto dovuto al surriscaldamento
+
+quality manager
+
+Blu
+
+tutti i metalli e la maggior parte delle plastiche
+
+manutentori
+
+gruppo di fili attorcigliati elicoidalmente
+
+Tramite un effetto chiamato scarica corona, che può generare sia rumore udibile che interferenze in radiofrequenza (RF).
+
+rimuoverli e riassemblarli utilizzando speciali pinze
+
+controllo corrosione 
+
+Sostituire la catena.
+
+orientando l'aeromobile nella direzione del vento
+
+LIC
+
+Che esistono due allarmi: uno intermittente che indica la predisposizione ad evacuare e uno continuo che indica l'abbandono immediato dell'edificio.
+
+nella direzione del vento
+
+Tenere le pinze  in modo tale che le estremità del filo, una volta tagliate, siano dirette verso il suolo. NON usare MAI pinze per stringere o allentare dadi, bulloni o viti
+
+Il punto di sollevamento deve coincidere con il centro di gravità
+
+20.000 Hz;
+difetti interni nella maggior parte dei materiali
+
+Visivi, bonding, continuità, isolamento, funzionale
+
+Il centro del foro all'estremità del nipplo.
+
+schiena contro schiena
+
+Da danni alla struttura dell'aeroplano, come fusione
+
+BS 308
+
+a temperatura ambiente
+
+Conferisce elevata resistenza e rigidità.
+
+carburante residuo e fluidi di esercizio completi, inclusi olio e fluido idraulico
+
+L'albero è l'elemento costante e i diversi accoppiamenti si ottengono variando le dimensioni del foro.
+
+efficienza giornaliera
+
+0,4
+
+deve  essere rifornito con il fluido idraulico previsto dal manuale tecnico del velivolo, in caso contrario non può essere impiegato.
+
+monouso
+
+3
+
+rappresentare oggetti di grande e piccola dimensione su fogli di dimensioni accettabili e standardizzate. 
+
+l'estintore deve essere rimosso e ispezionato mediante pesatura, per assicurarsi che abbia un contenuto adeguato, prima del volo successivo
+
+Se i cavi di prova sono danneggiati, non utilizzare mai il misuratore
+
+Leggeri, misurazioni accurate e possibilità di effettuare misure di frequenze con apposite sonde
+
+E' necessario individuare i punti di ingresso e di uscita del fulmine
+
+deflessione, controllo, smorzamento
+
+Applicazione di una pellicola chimica per leghe d'alluminio del tipo Alodine
+2 pollici ±0,002.
+
+Autorizza i tratti rossi all'interno della Parte II ad eccezione delle Croci (circoscritta e Non)
+
+tramite il foro di ispezione
+
+dimensioni dei pin da crimpare
+
+600°C - 850°C.
+
+Si devono controllare tutti gli ingombri dell'aeromobile
+
+Manutentori abilitati e qualificati
+
+la causa più probabile del problema
+
+influisce in modo sensibile sull’integrità dei componenti strutturali.
+rigide
+
+Puntali banana – pinzette
+
+Asciugare tutto il combustibile a terra e sul velivolo. In caso rilevante fuoriuscita evacuare tutto il  personale e chiamare i servizi antincendi
+
+perché si creano vantaggi in termini di rendimento
+
+trazione, torsione e compressione
+
+misurare la resistenza elettrica di un circuito o di un componente
+
+economico, leggero e veloce da fissare
+
+segue un approccio logico indipendentemente dal fatto che venga eseguito con o senza un grafico formale per la risoluzione dei problemi
+
+Utilizzando un tester di continuità
+
+sia a che b
+la differenza tra il limite superiore e quello inferiore di una dimensione dipendentemente dalle capacità produttive di una macchina
+
+deve essere corretta quando rilevata, ma la sua presenza in un aeromobile non significa un programma di controllo della corrosione carente
+
+telaio, incudine, mandrino, anello di bloccaggio e manico 
+
+La velocità di un aereo
+
+Applicare una miscela semisolida di idrocarburi e composti di zinco.
+
+Sostituire il cavo.
+
+si esegue un leak test o prova di tenuta, avendo cura di chiudere tutte le valvole.
+
+Simile ad un grosso cacciavite aiuta a rimuovere gli elementi di fissaggio bloccati.
+
+l’impedenza
+non può essere scaricato come previsto dalle pubblicazioni applicabili
+
+la prima fase del processo di risoluzione dei problemi consiste nel raccogliere quante più informazioni possibili
+
+radiali, assiali e obliqui
+
+Primarie, secondarie, terziarie
+
+b) induzione elettromagnetica
+Non necessita di un carico di prova.
+
+Deve essere assegnato un nuovo numero di edizione e una nuova data al disegno.
+
+la barra di traino deve essere specifica per l'aeromobile da movimentare
+
+disattivare l'impianto dalla propria alimentazione
+
+prova dell'impianto
+
+0,05 ohm
+
+Frantumazione del tettuccio
+
+Uno in prossimità del ruotino anteriore, uno per ogni gamba carrello principale più uno in coda per sicurezza.
+
+respinto
+
+M-(X * P) * 100 / X * P.
+
+il rilevamento dei difetti a correnti parassite può rilevare i difetti del sottosuolo
+
+conoscere la direzione del flusso d'aria in entrata
+
+parte interna e parte esterna
+
+luce nera
+
+rifornimento
+
+le proprietà del materiale;
+Viene emesso dalla Ditta Responsabile del Sistema d'Arma
+
+Una qualche forma di forza di spinta poiché l'interferenza è minima.
+
+sfere e rulli 
+
+3
+
+Elio o argon, o una miscela di elio e argon.
+
+Quando una parte deve essere misurata con tre cifre decimali in pollici o due cifre decimali in sistema metrico
+
+airframe logbook e/o engine logbook
+
+materiale è ferromagnetico
+Può essere utilizzato solo se la data riportata nell'adesivo non è scaduta
+
+revisione dei componenti principali
+
+Impedirà il movimento della superficie di controllo e della colonna di controllo.
+
+Trascurabile, riparabile mediante rappezzatura, riparabile mediante inserzione, riparabile mediante sostituzione
+
+Attacco acido.
+
+non deve essere utilizzato 
+
+autorità nazionale oppure da DOMA con procedura accettata da ENAC/DAAA
+
+Causare una resistenza eccessiva nei circuiti ad alta corrente
+
+90% del diametro dei raccordi terminali. 
+
+Ad eseguire un segno di punzonatura centrale per posizionare la punta del trapano
+
+radente
+
+ha un potere penetrante maggiore
+
+Utilizzando uno scalpello su una superficie metallica piana.
+
+Gli specialisti devono fare attenzione  all' aspirazione del motore allo scarico e alle aree pericolose attorno all'aeroplano.
+
+martinetti, cavalletti e imbracature
+
+barra di torsione
+
+preventive e correttive
+
+ordine o restrizione
+
+è scarica
+
+le parti di un aeromobile possono essere prodotte come repliche esatte l'una dell'altra
+
+carico necessario per produrre un'unità di deflessione.
+
+va eseguita con più persone sotto la guida di una di esse
+
+verifica serraggi
+
+Simula il velivolo in volo scavalcando i microswitch di sicurezza a terra (WOG)
+
+Ovalizzazione dei fori (Tolleranza)
+
+Flettendo per il normale intervallo di funzionamento più 15°.
+
+Un punto immaginario da cui vengono fornite le misurazioni di base reali.
+
+E' composto da lamelle contenute in una custodia protettiva. Ogni lama è di un determinato spessore e servono per avere una stima del gioco presente. Si possono combinare anche più lame se occorre una determinata misura finale.
+
+ad aumentare la resistenza agli ossidi quando il cavo è esposto ad elevate temperature
+
+può essere effettuata con un ohmmetro o con un multimetro in funzione continuità
+
+Difetto causato dalla stampa a caldo. 
+
+ogni impianto del velivolo è trattato nello stesso capitolo indipendentemente dal tipo di aeromobile
+
+I componenti come interruttori di sicurezza e relè devono avere i loro terminali ponticellati.
+
+Un fascio di fotoni con frequenza diverse (policromatico)
+
+non essere mai classificato come trascurabile
+
+Essere consapevoli di aspirazione del motore e scarico pericolo scoppio o aree pericolose.
+
+prevenire la propagazione delle cricche e il cedimento per fatica
+
+Unici per ciascun disegno.
+
+Non si deve superare il limite del raggio di sterzata per non danneggiare il  il meccanismo di sterzo del velivolo.
+
+Le rondelle PLI possono essere utilizzate con dadi a corona per fornire un'indicazione più precisa della coppia
+
+11
+
+impiegare sempre due chiavi 
+
+entrambe le connessioni pitot e prese statiche
+
+Larghezza di impulso breve
+
+Diretto risultato dell'accoppiamento di due metalli distanti fra loro nella scala galvanica.
+il Certifying staff
+
+Può essere impiegata solo se il particolare da ispezionare è accessibile dai due lati
+
+Contromisure antiradar
+
+montaggio di elementi di irrigidimento temporaneo su una struttura per evitare che si deformi durante la riparazione o il rinnovo
+
+rivetti allentati, rivestimenti deformati e elementi strutturali incrinati
+
+Protezione meccanica di fili o cavi
+
+O raggi X o raggi gamma
+
+l'interpretazione del disegno non deve dare adito a dubbi
+
+mantengono la loro durezza a basso calore e possono, quindi, essere utilizzate a velocità molto più elevate rispetto alle punte in acciaio al carbonio.
+
+poli magnetici
+la crimpatura a fossetta fornisce una maggiore resistenza a trazione
+
+Ottone e acciaio dolce. 
+
+85% o superiore
+
+di tempo e costo
+
+rappresenta la variazione, in entrambi i sensi, rispetto alla dimensione progettuale
+
+riflettometro nel dominio del tempo 
+
+piombo
+(R + T)
+
+gestisce la documentazione e redige quella di officina
+
+Le rientranze sulla pista di rotolamento dovute al carico trasferito attraverso il cuscinetto in condizioni statiche.
+
+particolare in materiale poroso
+gammagrafia
+Classe A e Classe B
+
+Voltmetro, Amperometro, Ohmmetro
+
+lavorazione a caldo
+
+prova della sfera, di flusso e di pressione
+
+molle elicoidali
+
+Velocizza le operazioni di installazione e rimozione dei particolari.
+
+ad un apposito diagramma fornito dal costruttore
+
+indipendentemente nella funzione on e off
+
+mostra ogni parte del gruppo, tutte le parti sono nella loro posizione reale e espanse verso l'esterno
+
+a breve e lungo termine
+
+E’ necessario l’utilizzo di entrambe le connessioni pitot e prese statiche
+
+ghisa
+
+Riparazioni necessarie per rendere l'aeromobile pronto al volo in tempi ristretti
+forgiatura a caldo
+
+i LP non possono mettere in evidenza difetti sub-superficiali
+Curare la pulizia delle superfici,incluse quelle nascoste alla vista.
+per risaltare alcuni elementi particolari di un oggetto
+
+per queste operazioni si rimanda la manuale di manutenzione
+
+controllo corretto, sistematico e quotidiano degli attrezzi in uso
+
+pressione relativa dei fluidi
+
+deve essere isolato dal circuito e la fonte di alimentazione rimossa
+
+basta l'utilizzo della mano
+
+usando un piccolo martelletto in metallo attraverso dei piccoli colpetti sulla zona scollata
+
+trasferibilità
+
+Misurare all'interno del raggio di curvatura.
+
+Rame nichelato o alluminio.
+
+destrorso
+
+Immagazzinare con maggiore sicurezza gli apparati più costosi ed interessanti
+
+In serie
+
+Le strutture primarie sono colorate di rosso o mostrate in bianco. Le strutture secondarie sono colorate di giallo o sono tratteggiate
+
+al materiale di cui è composta
+
+Tre volte
+
+Atterraggio pesante.
+
+aree del velivolo soggette a forte vento e umidità.
+
+preforo al centro della testa e foro con punta da trapano 
+
+testa di guerra
+
+19,050 mm.
+
+annotare tutte le operazioni effettuate sul libretto di volo
+
+Manometri e vacuometri
+
+provvedere al rifornimento di combustibile per evitare la formazione di vapori di combustibile che rappresentano un elevatissimo pericolo di innesco incendi
+
+Posizionare la catena su una superficie piana e applicare il carico di tensione corretto
+
+un cablaggio
+
+incorporare un perno a rottura prestabilita a taglio
+
+Temperatura, risoluzione
+
+Disegnato a un quarto rispetto alla dimensione reale.
+
+provvedere al rifornimento del combustibile
+
+Può attestare l'aeronavigabilità  dell'aeromobile e del componente.
+
+Brinnelling
+
+Dettagli e spigoli nascosti.
+
+incrocia le braccia sopra la propria testa con i palmi delle mani rivolti in avanti
+
+i motori hanno proprie procedure di deposito
+
+pin a  'rilascio anteriore'
+
+Viene aperto un certificato d'Ispezione per evento speciale
+
+diminuisce al diminuire della temperatura
+
+0,1
+
+nell'hangar (ambiente chiuso)
+
+La torre di controllo utilizzerà una pistola luminosa altamente direzionale per segnalare le istruzioni con diversi colori, .
+
+accoppiamento con gioco positivo
+
+La posizione funzionale dei componenti all'interno di un sistema e avviare la manutenzione.
+
+4D
+
+la dimensione indicata per comodità
+
+il circuito deve essere isolato dall'alimentazione del sistema
+
+con un collare di bloccaggio
+
+identificare i componenti da rimuovere o sostituire su un aeromobile
+
+innesco elettrico 24VDC
+
+un difetto più grave se il pneumatico è con camera d'aria
+
+anemometro, VSI, altimetro
+
+mutua induzione
+Aree SWAMP
+
+Un accoppiamento che può fornire un gioco o un'interferenza o dove le zone di tolleranza del foro e dell'albero si sovrappongono.
+
+Nell'hangar a porte chiuse
+
+cuffie antirumore
+
+Il punto teorico in cui l’intero peso dell’aeromobile, si presume sia concentrato
+
+3
+
+disattivare flap e slat, esaminare tutte le superfici mobilie i pannelli a nido d'ape
+
+sono poco resistenti alle alte velocità
+
+Limite impiego calendariale (LI e limite impiego di funzionamento(LOF)
+
+Soggetta a piccole forze.
+
+la spinta o il traino si effettuano evitando di applicarla alle superfici mobili, agli impennaggi e alle pale dell'elica
+
+valvole impianto carburante controllate elettricamente
+
+sia a) che b)
+
+Tracciamento dell'arco elettrico
+
+l'olio motore è stato rabboccato al livello corretto e nei serbatoi del carburante c'è solo carburante inutilizzabile
+
+una piccola differenza dimensionale tra due organi meccanici accoppiati tra loro, tale da consentire il moto relativo tra i due organi.
+
+limite impiego calendariale
+
+Valvola selettrice
+
+La turbolenza grave è identificata come turbolenza che provoca cambiamenti significativi e improvvisi di altitudine o assetto.
+
+devono essere sostituite 
+
+Probabilità, visiva, strutture funzionali e teoriche
+
+è necessario effettuare un controllo strutturale
+
+Preparazione, sicurezza ed obiettivo manutentivo
+
+I manuali di manutenzione 
+
+Si controllano le perdite dell'impianto
+
+si mette in un sacchettino trasparente 
+
+effettuarlo sempre con  due persone, uno per controllare il flusso al carrello e uno per monitorare la pressione nel sistema aereo.
+
+Analisi dei cablaggi, cavi e connettori
+Voltmetro, Amperometro, Ohmmetro
+
+si, può essere una filettatura con  un collare di bloccaggio o un collare ed un perno di bloccaggio
+
+bisogna spingere manualmente, evitando pressioni alle superfici mobili, agli impennaggi e a eventuali  pale dell'elica
+
+riferendo i dati  ad un apposito diagramma fornito dal costruttore
+
+Si deve fare riferimento agli appositi manuali di manutenzione per informazioni dettagliate.
+deve essere verifcata l'assenza di acqua nel carburante prima del rifornimento 
+
+Sono previsti nel manuali di manutenzione dell'aeromobile e devono essere opportunamente registrati
+
+Pressione all’interno dei collettori di aspirazione.
+I circuiti così esposti devono essere ispezionati accuratamente, in particolare se si sospetta l’ingresso di olio o acqua.
+
+Leggeri, misurazioni accurate e possibilità di effettuare misure di frequenze con apposite sonde
+
+Il punto teorico in cui l’intero peso dell’aeromobile, si presume sia concentrato
+
+periodici piccoli spostamenti per evitare deformazioni permanenti degli pneumatici.
+
+Deve essere attentamente revisionata e certificata nei periodi consigliati dal produttore.
+Temperatura, risoluzione
+La velocità di un aereo.
+ILS (LOC, G/S)
+
+Puntali banana – pinzette
+Se i cavi di prova sono danneggiati, non utilizzare mai il misuratore
+
+Ispezione visiva, prova di connessione (bonding test), prova di continuità (Continuity test), prova di isolamento, test funzionale
+
+In serie
+no, deve essere sufficientemente ventilato
+
+Il display visualizza quattro o più cifre e mostra un valore negativo se necessario
+
+deve  essere rifornita con il fluido idraulico previsto dal manuale tecnico del velivolo, in caso contrario non può essere impiegata.
+
+Può verificarsi una differenza di potenziale tra le superfici metalliche
